@@ -144,6 +144,20 @@ header{
     text-align: center;
 }
 
+footer{
+    margin-top: 150px;
+    display: flex;
+    background-color: rgb(24, 23, 23);
+    color: azure;
+    padding: 25px;
+    position: sticky;
+    bottom: 0;
+}
+
+.footer-container{
+    display: flex;
+    margin: 0 auto;
+}
 
 
 
