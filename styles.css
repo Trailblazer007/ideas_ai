@@ -159,6 +159,12 @@ footer{
     margin: 0 auto;
 }
 
+/* not working */
+.footer-one p{
+    vertical-align: middle;
+    
+}
+
 
 
 
