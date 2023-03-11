@@ -53,6 +53,16 @@ header{
     box-shadow: 0px 1px 2px 0.2px grey;
 }
 
+/* not working */
+
+/* .fa-solid fa-xmark{
+    color: black;
+}
+
+.fa-solid fa-heart{
+    color: red;
+} */
+
 #card-num{
     margin: 0 25px;
 }
