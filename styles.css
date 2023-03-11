@@ -177,6 +177,14 @@ footer{
     font-size: x-large;
 }
 
+footer #subscribe-btn{
+    outline: none;
+    border: none;
+    padding: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 
 
 
