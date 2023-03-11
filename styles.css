@@ -99,6 +99,38 @@ header{
     padding:20px ;
 }
 
+/* Trophy icon not showing*/
+
+.cards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.how-it-works{
+    width: 400px;
+    text-align: left;
+    margin: 30px auto;
+    
+}
+
+.how-it-works .part-one h2{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.how-it-works .part-two p{
+    margin: 20px 0;
+}
+
+.notice2{
+    margin: 30px auto 50px;
+    width: fit-content;
+    border: solid 0.5px black;
+    border-radius: 4px;
+    padding: 20px;    
+}
 
 
 
