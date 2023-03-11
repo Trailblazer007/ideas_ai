@@ -132,6 +132,18 @@ header{
     padding: 20px;    
 }
 
+.other-ideas{
+    border-top: 0.1px solid gray;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px 0;
+    padding: 20px 340px 0px 240px;
+}
+
+.last-idea{
+    text-align: center;
+}
+
 
 
 
