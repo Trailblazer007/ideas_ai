@@ -73,6 +73,10 @@ header{
     justify-content: center;
 }
 
+.instructions{
+    width: fit-content;
+    margin: 20px auto;
+}
 
 
 
